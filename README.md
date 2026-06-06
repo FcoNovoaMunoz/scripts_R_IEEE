@@ -1,5 +1,3 @@
-# scripts_R_IEEE
-R script and reproducibility material to process hydro-meteorological data structures (DGA/CR2) and aggregate results for the IEEE paper.
 # Reproducibility Material: Scripts R IEEE
 
 This repository contains the official R source code used to process, aggregate, and reproduce the hydro-meteorological data analysis results presented in the paper.
